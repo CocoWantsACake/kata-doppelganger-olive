@@ -1,3 +1,7 @@
+import pytest
+
+from mail_sender import MailSender
+
 def test_send_v1():
     # TODO: write a test that fails due to the bug in MailSender.send_v1
     pass

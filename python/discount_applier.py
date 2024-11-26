@@ -1,3 +1,4 @@
+
 class DiscountApplier:
     def __init__(self, notifier):
         self.notifier = notifier
